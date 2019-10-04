@@ -22,6 +22,7 @@ package org.japo.java.main;
 public class Main {
     
     public static void main(String[] args){
-    System.out.println("Hola Mundo");
+    System.out.printf(" el hombre llegó a la Luna por primera vez %d", 1993);
+    
     }
 }
